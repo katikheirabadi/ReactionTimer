@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(140, 199, 248);
+    color: rgb(16, 16, 66);
+}
+.btn{
+    padding: 1%;
+    background-color:  rgb(16, 16, 66);
+    border-color:  rgb(16, 16, 66);
+    color: white;
+    border-radius: 10px;
+}
+.btndisable {
+    background-color:rgb(208, 208, 208);
+    border-color: rgb(208, 208, 208);
+    color: rgb(121, 115, 115);
+}
